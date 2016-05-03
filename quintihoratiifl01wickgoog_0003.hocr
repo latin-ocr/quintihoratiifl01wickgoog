@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quintihoratiifl01wickgoog/quintihoratiifl01wickgoog_0003.png"; bbox 0 0 1000 1425; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 392 541 578 590">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 392 541 578 590">
+     <span class='ocr_line' id='line_1_1' title="bbox 450 541 520 561; baseline 0 -3"><span class='ocrx_word' id='word_1_1' title='bbox 450 541 520 561; x_wconf 55' lang='lat' dir='ltr'><strong>{mmm</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 392 576 578 590; baseline 0.011 -2"><span class='ocrx_word' id='word_1_2' title='bbox 392 576 469 589; x_wconf 75' lang='lat' dir='ltr'>HENRY</span> <span class='ocrx_word' id='word_1_3' title='bbox 483 577 578 590; x_wconf 67' lang='lat' dir='ltr'>Fxowtm</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 415 618 554 765">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 415 618 554 765">
+     <span class='ocr_line' id='line_1_3' title="bbox 415 618 554 765; baseline 0 660"><span class='ocrx_word' id='word_1_4' title='bbox 415 618 554 765; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 328 786 636 800">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 328 786 636 800">
+     <span class='ocr_line' id='line_1_4' title="bbox 328 786 636 800; baseline -0.003 -1"><span class='ocrx_word' id='word_1_5' title='bbox 328 787 387 799; x_wconf 57' lang='lat' dir='ltr'><strong>oxxzoxn</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 396 786 484 799; x_wconf 70' lang='lat' dir='ltr'><strong>Umvusrrx‘</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 493 786 537 799; x_wconf 70' lang='lat' dir='ltr'>Puss</span> <span class='ocrx_word' id='word_1_8' title='bbox 544 787 636 800; x_wconf 61' lang='lat' dir='ltr'><strong>wulfinum-2</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 404 820 561 836">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 404 820 561 836">
+     <span class='ocr_line' id='line_1_5' title="bbox 404 820 561 836; baseline 0.006 -4"><span class='ocrx_word' id='word_1_9' title='bbox 404 820 448 832; x_wconf 57' lang='lat' dir='ltr'><strong>Anu:</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 457 820 520 836; x_wconf 64' lang='lat' dir='ltr'><strong>conum,</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 531 820 561 833; x_wconf 63' lang='lat' dir='ltr'><strong>nc.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
